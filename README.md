@@ -1,6 +1,7 @@
 Advanced Android
 ================
-
+原code库：https://github.com/google-developer-training/android-advanced
+文档地址：https://google-developer-training.gitbooks.io/android-developer-advanced-course-practicals/content/
 This repository contains samples and solutions for the
 Advanced Android course.
 
