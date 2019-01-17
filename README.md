@@ -5,6 +5,13 @@ Advanced Android
 This repository contains samples and solutions for the
 Advanced Android course.
 
+Modules
+FileProviderDemo
+参考文档
+https://developer.android.google.cn/reference/android/support/v4/content/FileProvider
+https://developer.android.google.cn/training/secure-file-sharing/share-file
+
+
 Introduction
 ------------
 
