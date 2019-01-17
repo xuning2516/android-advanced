@@ -11,6 +11,11 @@ FileProviderDemo
 https://developer.android.google.cn/reference/android/support/v4/content/FileProvider
 https://developer.android.google.cn/training/secure-file-sharing/share-file
 
+SimpleMediaPlayer
+使用MediaPlayer播放音乐Audio
+参考github地址 https://github.com/googlesamples/android-BasicMediaDecoder/
+https://developer.android.google.cn/guide/topics/media/mediaplayer
+
 
 Introduction
 ------------
