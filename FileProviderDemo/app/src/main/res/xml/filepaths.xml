@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <files-path path="images/" name="myimages" />
+    <external-path
+        name="dcim"
+        path="DCIM/"></external-path>
+</paths>
